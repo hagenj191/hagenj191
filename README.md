@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Bob, and I am learning to program!
+
 <!--
 **hagenj191/hagenj191** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
